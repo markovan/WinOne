@@ -1,0 +1,7 @@
+C:\Users\irgpoz\OneDrive - Trane Technologies\Connected Solutions\repos\WinOne\WinOne\bin\Release\net10.0\publish\WinOne.exe
+C:\Users\irgpoz\OneDrive - Trane Technologies\Connected Solutions\repos\WinOne\WinOne\bin\Release\net10.0\publish\appsettings.Development.json
+C:\Users\irgpoz\OneDrive - Trane Technologies\Connected Solutions\repos\WinOne\WinOne\bin\Release\net10.0\publish\appsettings.json
+C:\Users\irgpoz\OneDrive - Trane Technologies\Connected Solutions\repos\WinOne\WinOne\bin\Release\net10.0\publish\WinOne.dll
+C:\Users\irgpoz\OneDrive - Trane Technologies\Connected Solutions\repos\WinOne\WinOne\bin\Release\net10.0\publish\WinOne.runtimeconfig.json
+C:\Users\irgpoz\OneDrive - Trane Technologies\Connected Solutions\repos\WinOne\WinOne\bin\Release\net10.0\publish\WinOne.pdb
+C:\Users\irgpoz\OneDrive - Trane Technologies\Connected Solutions\repos\WinOne\WinOne\bin\Release\net10.0\publish\WinOne.deps.json

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8W1dkPzK3+M=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\irgpoz\\OneDrive - Trane Technologies\\Connected Solutions\\repos\\WinOne\\WinOne\\WinOne.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\irgpoz\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.0\\microsoft.aspnetcore.app.internal.assets.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
